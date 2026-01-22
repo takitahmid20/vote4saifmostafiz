@@ -45,7 +45,7 @@ const Footer = () => {
                     </svg>
                   </div>
                   <div>
-                    <div className="text-2xl font-bold text-amber-400">১৫+</div>
+                    <div className="text-2xl font-bold text-amber-400">১৩</div>
                     <div className="text-sm text-gray-400">ইউনিয়ন</div>
                   </div>
                 </div>
@@ -56,7 +56,7 @@ const Footer = () => {
                     </svg>
                   </div>
                   <div>
-                    <div className="text-2xl font-bold text-amber-400">১০০+</div>
+                    <div className="text-2xl font-bold text-amber-400">২০০+</div>
                     <div className="text-sm text-gray-400">গ্রাম</div>
                   </div>
                 </div>
@@ -67,7 +67,7 @@ const Footer = () => {
                     </svg>
                   </div>
                   <div>
-                    <div className="text-2xl font-bold text-amber-400">১ লক্ষ+</div>
+                    <div className="text-2xl font-bold text-amber-400">৪ লক্ষ ৫০ হাজার+</div>
                     <div className="text-sm text-gray-400">ভোটার</div>
                   </div>
                 </div>
